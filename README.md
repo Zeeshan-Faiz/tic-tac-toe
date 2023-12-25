@@ -1,7 +1,5 @@
 # Tic-Tac-Toe Game Documentation
 
-![image info](tic-tac-toe.png)
-
 ## Overview
 
 This simple Tic-Tac-Toe game, developed in Java, provides a classic two-player experience where players take turns marking spaces in a 3x3 grid. The goal is to achieve three marks in a row, either horizontally, vertically, or diagonally.
